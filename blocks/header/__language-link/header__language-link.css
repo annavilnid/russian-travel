@@ -8,6 +8,7 @@
   color: #FFFFFF;
   text-decoration-line: none;
   transition: opacity 0.2s linear;
+  opacity: 0.3;
 }
 
 .header__language-link:hover {
