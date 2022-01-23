@@ -22,7 +22,6 @@
     gap: 16px;
     grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
     grid-template-rows: repeat(auto-fit, minmax(264px, 1fr));
-    gap: 16px;
   }
 }
 

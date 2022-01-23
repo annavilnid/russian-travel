@@ -3,7 +3,6 @@
   padding-bottom: 80px;
   display: grid;
   gap: 48px 40px;
-  display: grid;
   max-width: calc(100% - 148px * 2);
   grid-template-columns:  minmax(460px, 1fr) minmax(min-content, max-content);
   grid-template-rows: minmax(min-content, max-content) minmax(460px, 1fr);
