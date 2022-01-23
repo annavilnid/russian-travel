@@ -1,9 +1,12 @@
 .place__website {
-  align-self: end; 
+  display: flex;
+  align-self: flex-end;
+  flex-direction: column;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 620px) {
   .place__website {
     padding: 0 16px;
+    align-self: start;
   }
 }

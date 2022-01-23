@@ -11,6 +11,7 @@
 
 @media screen and (max-width: 740px) {
   .footer__list {
+    padding-bottom: 48px;
     flex-direction: column;
     font-size: 24px;
     line-height: 1;
