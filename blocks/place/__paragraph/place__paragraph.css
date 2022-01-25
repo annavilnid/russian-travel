@@ -1,4 +1,4 @@
-.place__pharagraph {
+.place__paragraph {
   margin: 0;
   padding-bottom: 26px;
   font-style: normal;
@@ -8,14 +8,13 @@
   color: #FFFFFF;
 }
 
-.place__pharagraph:last-of-type {
+.place__paragraph:last-of-type {
   padding-bottom: 0;
 }
 
 @media screen and (max-width: 1023px) {
-  .place__pharagraph {
+  .place__paragraph {
     padding-bottom: 25px;
     font-size: 16px;
-    line-height: 163%;
   }
 }
